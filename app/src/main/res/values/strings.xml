@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project3(CS478)App1</string>
+    <string name="hotelTextView">Click to view hotels</string>
+    <string name="attractionsTextView">Click to view attractions</string>
+    <string name="launchTouristAppDescription">Permission to launch chicago tour application</string>
+    <string name="launchTouristAppLabel">Launch chicago tour application</string>
+</resources>
